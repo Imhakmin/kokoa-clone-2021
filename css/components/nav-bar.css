@@ -34,3 +34,16 @@
   left: 35px;
   bottom: 30px;
 }
+
+.nav__dot_test {
+  background-color: tomato;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 15px;
+  top: 35px;
+}
