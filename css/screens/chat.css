@@ -115,11 +115,11 @@
 }
 
 .reply .reply__column:first-child {
-  width: 2%;
+  width: 5%;
 }
 
 .reply .reply__column:last-child {
-  width: 98%;
+  width: 95%;
   position: relative;
 }
 
@@ -177,8 +177,8 @@
 }
 
 .reply input:focus {
-  width: 98vw;
-  transform: translateX(-3%);
+  width: 96vw;
+  transform: translateX(-7%);
 }
 /*.reply:focus-within {
   transform: translateY(80px);
